@@ -1,0 +1,71 @@
+loggersshyamltest.go:70: kubectl create -f vlan.yaml
+loggersshyamltest.go:70: kubectl create -f vlan.yaml
+loggersshyamltest.go:70: kubectl create -f vlan.yaml
+loggersshyamltest.go:70: kubectl create -f vlan.yaml
+loggersshyamltest.go:70: kubectl create -f vlan.yaml
+loggersshyamltest.go:70: kubectl create -f vlan.yaml
+loggersshyamltest.go:70: kubectl create -f vlan.yaml
+loggersshyamltest.go:70: kubectl create -f vlan.yaml
+loggersshyamltest.go:70: kubectl create -f vlan.yaml
+loggersshyamltest.go:70: kubectl create -f vlan.yaml
+loggersshyamltest.go:70: kubectl create -f vlan.yaml
+loggersshyamltest.go:70: kubectl create -f vlan.yaml
+loggersshyamltest.go:70: kubectl create -f vlan.yaml
+loggersshyamltest.go:70: kubectl create -f vlan.yaml
+loggersshyamltest.go:70: kubectl create -f vlan.yaml
+loggersshyamltest.go:70: kubectl create -f vlan.yaml
+loggersshyamltest.go:70: kubectl create -f vlan.yaml
+loggersshyamltest.go:71: kubectl create -f vlan.yaml
+loggersshyamltest.go:71: kubectl create -f vlan.yaml
+loggersshyamltest.go:71: kubectl create -f vlan.yaml
+loggersshyamltest.go:71: kubectl create -f vlan.yaml
+loggersshyamltest.go:71: kubectl create -f vlan.yaml
+loggersshyamltest.go:70: kubectl create -f vlan.yaml
+loggersshyamltest.go:70: kubectl create -f vlan.yaml
+loggersshyamltest.go:70: kubectl create -f vlan.yaml
+loggersshyamltest.go:70: kubectl create -f vlan.yaml
+loggersshyamltest.go:70: kubectl create -f vlan.yaml
+loggersshyamltest.go:70: kubectl create -f vlan.yaml
+loggersshyamltest.go:70: kubectl create -f vlan.yaml
+loggersshyamltest.go:70: kubectl create -f vlan.yaml
+loggersshyamltest.go:70: kubectl create -f vlan.yaml
+loggersshyamltest.go:70: kubectl create -f vlan.yaml
+loggersshyamltest.go:70: kubectl create -f vlan.yaml
+loggersshyamltest.go:70: kubectl create -f vlan.yaml
+loggersshyamltest.go:70: kubectl create -f vlan.yaml
+loggersshyamltest.go:70: kubectl create -f vlan.yaml
+loggersshyamltest.go:70: kubectl create -f vlan.yaml
+loggersshyamltest.go:70: kubectl create -f vlan.yaml
+loggersshyamltest.go:70: kubectl create -f vlan.yaml
+loggersshyamltest.go:70: kubectl create -f vlan.yaml
+loggersshyamltest.go:73: output Last login: Wed Apr 11 04:25:53 2018 from 192.168.101.247
+kubectl create -f vlan.yaml
+root@SNAPL-681232X1621007:~# kubectl create -f vlan.yaml
+loggersshyamltest.go:70: kubectl create -f vlan.yaml
+loggersshyamltest.go:73: output Last login: Wed Apr 11 04:27:22 2018 from 192.168.101.247
+kubectl create -f vlan.yaml
+root@SNAPL-681232X1621007:~# kubectl create -f vlan.yaml
+loggersshyamltest.go:70: kubectl create -f vlan.yaml
+loggersshyamltest.go:73: output Last login: Wed Apr 11 04:29:18 2018 from 192.168.101.247
+kubectl create -f vlan.yaml
+root@SNAPL-681232X1621007:~# kubectl create -f vlan.yaml
+loggersshyamltest.go:70: kubectl create -f vlan.yaml
+loggersshyamltest.go:73: output Last login: Wed Apr 11 04:30:01 2018 from 192.168.101.247
+kubectl create -f vlan.yaml
+root@SNAPL-681232X1621007:~# kubectl create -f vlan.yaml
+loggersshyamltest.go:70: kubectl create -f vlan.yaml
+loggersshyamltest.go:73: output Last login: Wed Apr 11 04:30:36 2018 from 192.168.101.247
+kubectl create -f vlan.yaml
+root@SNAPL-681232X1621007:~# kubectl create -f vlan.yaml cmd kubectl create -f vlan.yaml
+loggersshyamltest.go:70: kubectl create -f vlan.yaml
+loggersshyamltest.go:73: output Last login: Wed Apr 11 04:31:53 2018 from 192.168.101.247
+kubectl create -f vlan.yaml
+root@SNAPL-681232X1621007:~# kubectl create -f vlan.yaml
+Error from server (AlreadyExists): error when creating "vlan.yaml": vlanobjs.snaproute.com "vlan-103" already exists
+root@SNAPL-681232X1621007:~# cmd kubectl create -f vlan.yaml
+loggersshyamltest.go:70: kubectl create -f vlan.yaml
+loggersshyamltest.go:73: output Last login: Wed Apr 11 04:33:50 2018 from 192.168.101.247
+kubectl create -f vlan.yaml
+root@SNAPL-681232X1621007:~# kubectl create -f vlan.yaml
+Error from server (AlreadyExists): error when creating "vlan.yaml": vlanobjs.snaproute.com "vlan-103" already exists
+root@SNAPL-681232X1621007:~# cmd kubectl create -f vlan.yaml
